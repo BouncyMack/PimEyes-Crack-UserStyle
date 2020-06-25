@@ -1,11 +1,25 @@
-.blurred-source-url{
-  user-select: all !important;;
-}
+/* ==UserStyle==
+@name           PimEyes Crack
+@namespace      github.com/PinkDev1/PimEyes-Crack-UserStyle
+@version        1.0.0
+@description    Allows easier use of the FREE version of PimEyes
+@author         PinkDev1
+==/UserStyle== */
 
-span{
-	filter: none !important;;
-}
+@-moz-document domain("pimeyes.com") {
 
-.zoom {
-  display: none !important;;
+    /*Un-blur the URLs*/
+    .blurred-source-url{
+        user-select: all !important;;
+    }
+
+    /*Make the URLs selectable*/
+    span{
+        filter: none !important;;
+    }
+
+    /*Remove the Buy Premium overlay on images*/
+    .zoom {
+        display: none !important;;
+    }
 }
