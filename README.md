@@ -1,4 +1,4 @@
-# PimEyes-Crack
+# PimEyes-Crack/UserStyle
 This "Crack" is simply a couple of css styles that improve your experience while using the face-recognition service "pimeyes.com"
 
 These css styles un-blur the text (Kind-of useless, since the URLs shown have some kind of obfuscation applied).
