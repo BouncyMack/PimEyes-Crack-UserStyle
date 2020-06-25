@@ -1,0 +1,23 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1593103750700,
+		"name": "PimEyes Crack",
+		"sections": [
+			{
+				"code": ".blurred-source-url{\n  user-select: all !important;;\n}\n\nspan{\n\tfilter: none !important;;\n}\n\n.zoom {\n  display: none !important;;\n}",
+				"domains": [
+					"pimeyes.com"
+				]
+			}
+		],
+		"updateDate": 1593106090400,
+		"_id": "9fe1a054-2322-4847-9762-3c1ed77a9e25",
+		"_rev": 1593106090400,
+		"id": 9
+	}
+]

@@ -1,0 +1,11 @@
+.blurred-source-url{
+  user-select: all !important;;
+}
+
+span{
+	filter: none !important;;
+}
+
+.zoom {
+  display: none !important;;
+}
