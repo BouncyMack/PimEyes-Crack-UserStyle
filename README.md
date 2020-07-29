@@ -1,4 +1,6 @@
-# PimEyes-Crack/UserStyle
+# PimEyes-Crack/UserStyle                          
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FPinkDev1%2FPimEyes-Crack-UserStyle)
+
 This "Crack" is simply a couple of css styles that improve your experience while using the face-recognition service "pimeyes.com"
 
 These css styles un-blur the text (Kind-of useless, since the URLs shown have some kind of obfuscation applied).
